@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q7hu9x67MKerpSDmrqowWOe+/4fmlXLu6uA877NBBZNm+a4nb44CusU+nszqjHA/JwD/Zrot21cIGTc6AKogLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LITHIUM\\Desktop\\Minesweper\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LITHIUM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
